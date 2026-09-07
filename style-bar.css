@@ -1,0 +1,27 @@
+body {
+  background: #0072de;
+  color: #bfe5ff;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+  margin: 0px;
+	text-align: left;
+}
+table {
+  border: 0px;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+}
+td {
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+a {
+  border: 0px;
+}
+img {
+  border: 0px;
+}
